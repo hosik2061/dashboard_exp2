@@ -1,0 +1,16 @@
+[theme]
+
+#버튼 색상
+#primaryColor = ''
+
+#전체 배경 색상
+backgroundColor = '#006400'
+
+#사이드바, 보더 배경 색상
+secondaryBackgroundColor = '#2F4F4F'
+
+#글자 색상
+textColor = '#FFFFFF'
+
+#글꼴
+#font = ''
